@@ -1,0 +1,1 @@
+$(document).ready((function(){$("#guia-90-section .more > a").first().click(e=>{e.preventDefault(),$("#guia-90-section").addClass("opened")}),$("#sos-section .left .more > a").first().click(e=>{e.preventDefault(),$("#sos-section .content").first().addClass("opened")})}));
